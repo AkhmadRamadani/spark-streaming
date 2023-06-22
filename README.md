@@ -66,9 +66,8 @@ Dalam stateful stream processing, data yang tiba di aliran diperlakukan sebagai 
     <td>
      Melakukan Transformasi di Spark Streaming (transformasi word sentiment)
     <td>
-      <img src="https://github.com/AkhmadRamadani/spark-streaming/blob/main/images/WhatsApp%20Image%202023-06-20%20at%2010.27.28.jpeg?raw=true" width=80% height=80%><br><br>
       <img src="https://github.com/AkhmadRamadani/spark-streaming/blob/main/images/WhatsApp%20Image%202023-06-20%20at%2010.27.27%20(2).jpeg?raw=true" width=80% height=80%><br><br>
-      
+      <img src="https://raw.githubusercontent.com/AkhmadRamadani/spark-streaming/main/images/a62bd724-66c0-4241-8fd5-c6f178714be4.jpeg" width=80% height=80%><br><br>
   </td>
     </td>
     </tr>
